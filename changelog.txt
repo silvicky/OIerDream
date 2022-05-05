@@ -2,7 +2,7 @@
 01.20.2022 重写
 03.24.2022 修改了角色名字
 04.28.2022 Release 1 "Original"
-*06.23.2022 Release 2 "Mico"
+05.05.2022 Release 2 "Mico"
 *11.25.2022 Release 3 "Senioria"
 *01.03.2023 Release 4 "Tomiya"
 *?? Release 5 "SFACG"
