@@ -39,3 +39,11 @@ echo: >> result.txt
 echo: >> result.txt
 echo: >> result.txt
 for %%a in (.\other\???.txt) do copy /b result.txt+%%a result.txt&&echo: >> result.txt&&echo: >> result.txt
+echo: >> result.txt
+echo: >> result.txt
+echo: >> result.txt
+copy /b result.txt+".\reader\info.txt" result.txt
+echo: >> result.txt
+echo: >> result.txt
+echo: >> result.txt
+for %%a in (.\reader\???.txt) do copy /b result.txt+%%a result.txt&&echo: >> result.txt&&echo: >> result.txt
