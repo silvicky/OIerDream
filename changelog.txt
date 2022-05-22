@@ -5,3 +5,4 @@
 05.05.2022 Release 2 "Mico"
 05.19.2022 Release 3 "Seni"
 05.21.2022 Release 4 "Tommy"
+05.23.2022 Release 5 "Kaede"
