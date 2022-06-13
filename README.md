@@ -7,17 +7,20 @@ OIer就是信息学竞赛选手的昵称，也是一个令人自豪的名字。
 
 ## Guide
 
-You can directly read seperated chapters, below is the guide to make a full book.
+You can read each chapter directly. Below is the guide to make a full book.
 
 ### Windows or ReactOS
 
 Run maker.cmd.
+
 Contents will be output to result.txt.
+
 Under ReactOS there are some errors, but the result is the same. 
 
 ### DOS
 
 I don't know if the current maker.cmd fits it.
+
 Some changes might be needed.
 
 ### Unix-like(bash)
